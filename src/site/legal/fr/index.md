@@ -2,7 +2,7 @@
 layout: legal
 permalink: /fr/legal/index.html
 title: Mentions légales
-lead: "Dernière mise à jour: Juillet 2021"
+lead: "Dernière mise à jour : Juillet 2021"
 ---
 ## Impressum
 
